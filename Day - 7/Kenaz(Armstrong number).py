@@ -1,5 +1,5 @@
 '''
-Pyhon program to find Compound interest
+Pyhon program
 Author: Kenaz mathukutty
 Created: 20/11/2024
 '''
